@@ -1,0 +1,14 @@
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\bin\Debug\net8.0\Hw_Week2_2.exe
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\bin\Debug\net8.0\Hw_Week2_2.deps.json
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\bin\Debug\net8.0\Hw_Week2_2.runtimeconfig.json
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\bin\Debug\net8.0\Hw_Week2_2.dll
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\bin\Debug\net8.0\Hw_Week2_2.pdb
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\Hw_Week2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\Hw_Week2_2.AssemblyInfoInputs.cache
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\Hw_Week2_2.AssemblyInfo.cs
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\Hw_Week2_2.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\Hw_Week2_2.dll
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\refint\Hw_Week2_2.dll
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\Hw_Week2_2.pdb
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\Hw_Week2_2.genruntimeconfig.cache
+C:\Users\ARYA\source\repos\Hw_Week2_2\Hw_Week2_2\obj\Debug\net8.0\ref\Hw_Week2_2.dll

@@ -1,0 +1,14 @@
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\bin\Debug\net8.0\Hw_week2_3.exe
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\bin\Debug\net8.0\Hw_week2_3.deps.json
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\bin\Debug\net8.0\Hw_week2_3.runtimeconfig.json
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\bin\Debug\net8.0\Hw_week2_3.dll
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\bin\Debug\net8.0\Hw_week2_3.pdb
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\Hw_week2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\Hw_week2_3.AssemblyInfoInputs.cache
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\Hw_week2_3.AssemblyInfo.cs
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\Hw_week2_3.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\Hw_week2_3.dll
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\refint\Hw_week2_3.dll
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\Hw_week2_3.pdb
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\Hw_week2_3.genruntimeconfig.cache
+C:\Users\ARYA\source\repos\Hw_week2_3\Hw_week2_3\obj\Debug\net8.0\ref\Hw_week2_3.dll
